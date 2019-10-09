@@ -1,2 +1,7 @@
 db.sqlit3
 geckodriver.log
+__pycache__
+*.pyc
+__pycache__/
+.idea
+.idea/
